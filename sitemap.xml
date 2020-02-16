@@ -5,14 +5,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2020-02-16T17:12:05-00:00</lastmod>
+<lastmod>2020-02-16T17:29:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/about.html</loc>
-<lastmod>2020-02-16T17:12:05-00:00</lastmod>
+<lastmod>2020-02-16T17:29:44-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -137,15 +137,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/categories/saltwater/</loc>
-<lastmod>2019-04-07T09:10:00-04:56</lastmod>
+<loc>/categories/colorado/</loc>
+<lastmod>2019-04-07T09:15:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories/florida/</loc>
-<lastmod>2019-04-07T09:25:00-04:56</lastmod>
+<loc>/categories/state-parks/</loc>
+<lastmod>2019-04-14T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -158,15 +158,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/categories/animal/</loc>
+<loc>/categories/crafts/</loc>
+<lastmod>2019-04-07T09:40:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/categories/florida/</loc>
 <lastmod>2019-04-07T09:25:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories/state-parks/</loc>
-<lastmod>2019-04-14T12:00:00-04:56</lastmod>
+<loc>/categories/hydrographic/</loc>
+<lastmod>2019-04-14T10:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -186,13 +193,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/categories/hydrographic/</loc>
-<lastmod>2019-04-14T10:00:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>/categories/land-surveying/</loc>
 <lastmod>2019-04-14T12:30:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -200,8 +200,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/categories/colorado/</loc>
-<lastmod>2019-04-07T09:15:00-04:56</lastmod>
+<loc>/categories/saltwater/</loc>
+<lastmod>2019-04-07T09:10:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/categories/animal/</loc>
+<lastmod>2019-04-07T09:25:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -209,13 +216,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/categories/food/</loc>
 <lastmod>2019-04-07T09:35:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/categories/crafts/</loc>
-<lastmod>2019-04-07T09:40:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
