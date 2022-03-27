@@ -5,14 +5,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2022-03-27T12:46:52-00:00</lastmod>
+<lastmod>2022-03-27T13:07:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/about.html</loc>
-<lastmod>2022-03-27T12:46:52-00:00</lastmod>
+<lastmod>2022-03-27T13:07:48-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,6 +46,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/blog/2019/04/14/nature/</loc>
+<lastmod>2019-02-28T10:00:00+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/blog/2019/04/14/sailing/</loc>
 <lastmod>2019-02-28T10:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -53,7 +60,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/category/fishing/</loc>
+<lastmod>2019-04-14T11:30:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/category/nature/</loc>
+<lastmod>2019-04-14T11:30:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/category/sailing/</loc>
+<lastmod>2019-04-14T11:30:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/category/writings/</loc>
+<lastmod>2020-05-30T11:30:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/categories/national-parks/</loc>
+<lastmod>2019-04-14T11:30:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/categories/exploring/</loc>
 <lastmod>2020-05-30T11:30:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -69,13 +111,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/categories/sailing/</loc>
 <lastmod>2019-04-14T11:30:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/categories/exploring/</loc>
-<lastmod>2020-05-30T11:30:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
