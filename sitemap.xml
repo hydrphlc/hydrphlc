@@ -5,14 +5,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2023-12-16T08:17:23-00:00</lastmod>
+<lastmod>2023-12-16T08:25:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/about.html</loc>
-<lastmod>2023-12-16T08:17:23-00:00</lastmod>
+<lastmod>2023-12-16T08:25:33-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -102,21 +102,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/categories/fishing/</loc>
+<loc>/categories/national-parks/</loc>
 <lastmod>2019-04-14T11:30:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories/casita/</loc>
-<lastmod>2019-04-14T11:30:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/categories/sailing/</loc>
+<loc>/categories/exploring/</loc>
 <lastmod>2019-04-14T11:30:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -130,14 +123,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/categories/national-parks/</loc>
+<loc>/categories/sailing/</loc>
 <lastmod>2019-04-14T11:30:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories/exploring/</loc>
+<loc>/categories/fishing/</loc>
+<lastmod>2019-04-14T11:30:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/categories/casita/</loc>
 <lastmod>2019-04-14T11:30:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
